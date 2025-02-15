@@ -1,5 +1,7 @@
 # Simple DeFi service using Binance API
 ### Find corelation is first goal
+### use web design template
+
 
 ![image](https://github.com/user-attachments/assets/f7abd406-995d-45e3-99de-0a8de20b2420)
 
@@ -11,6 +13,8 @@
 
 
 ### How to regisger Binance and create API
+T.B.D.
+
 
 
 
